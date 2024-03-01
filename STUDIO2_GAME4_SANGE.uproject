@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBCD048C-4E52-2EE5-0398-7E84A1E59CD2}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "STUDIO2_GAME4_SANGE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
